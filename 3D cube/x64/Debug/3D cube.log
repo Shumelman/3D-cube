@@ -1,0 +1,17 @@
+﻿  3D cube.cpp
+E:\Свое\Captures\C++\3D cube\3D cube\3D cube.cpp(33,22): warning C4305: инициализация: усечение из "double" в "float"
+E:\Свое\Captures\C++\3D cube\3D cube\3D cube.cpp(45,113): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+E:\Свое\Captures\C++\3D cube\3D cube\3D cube.cpp(50,63): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+E:\Свое\Captures\C++\3D cube\3D cube\3D cube.cpp(54,51): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+E:\Свое\Captures\C++\3D cube\3D cube\3D cube.cpp(58,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Свое\Captures\C++\3D cube\3D cube\3D cube.cpp(58,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Свое\Captures\C++\3D cube\3D cube\3D cube.cpp(58,17): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Свое\Captures\C++\3D cube\3D cube\3D cube.cpp(59,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Свое\Captures\C++\3D cube\3D cube\3D cube.cpp(59,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Свое\Captures\C++\3D cube\3D cube\3D cube.cpp(59,17): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Свое\Captures\C++\3D cube\3D cube\3D cube.cpp(60,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Свое\Captures\C++\3D cube\3D cube\3D cube.cpp(60,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Свое\Captures\C++\3D cube\3D cube\3D cube.cpp(60,17): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Свое\Captures\C++\3D cube\3D cube\3D cube.cpp(98,8): warning C4305: +=: усечение из "double" в "float"
+E:\Свое\Captures\C++\3D cube\3D cube\3D cube.cpp(99,8): warning C4305: +=: усечение из "double" в "float"
+  3D cube.vcxproj -> E:\Свое\Captures\C++\3D cube\x64\Debug\3D cube.exe
